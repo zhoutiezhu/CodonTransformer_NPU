@@ -17,7 +17,7 @@ CodonTransformer model adapted for Ascend 910A NPU
 - **模型地址**：[https://huggingface.co/adibvafa/CodonTransformer](https://huggingface.co/adibvafa/CodonTransformer)
 - **数据集地址**：[https://huggingface.co/datasets/adibvafa/CodonTransformer](https://huggingface.co/datasets/adibvafa/CodonTransformer)
 - **NPU适配参考代码**：[https://gitee.com/xiaoloongfang/lightning_npu](https://gitee.com/xiaoloongfang/lightning_npu)
-- **完整参考代码**：[git clone https://gitee.com/zhou-xingzi/codon-transformer_-npu.git](https://gitee.com/zhou-xingzi/codon-transformer_-npu.git)
+- **完整参考代码**：[https://gitee.com/zhou-xingzi/codon-transformer_-npu.git](https://gitee.com/zhou-xingzi/codon-transformer_-npu.git)
 
 ## 四、核心问题与解决方案
 ### 4.1 ImportError: cannot import name 'torch_device_guard'
